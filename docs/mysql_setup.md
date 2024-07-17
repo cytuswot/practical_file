@@ -22,5 +22,3 @@ MariaDB [(none)]> FLUSH PRIVILEGES;
 ```
 mysql -u root -p
 ```
-
-
