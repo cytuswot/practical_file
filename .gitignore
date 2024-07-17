@@ -1,0 +1,3 @@
+.venv/
+try*.py
+__pycache__/
